@@ -1,4 +1,230 @@
 
 
-
-06/10/2025 10:03: Hb 14,7 | Ht 45,2 | Leuco 6.530 | Plaq 205.000 | TGO 22 | TGP 36 | Ureia 26 | Cr 0,85 (eTFG CKD-EPI 2021 114) | Na 138 | K 4,1 | HbA1c 5,3 | T4L 1,6 | TSH 0,90 | AU 5,8 | ColT 199 | HDL 39 | TG 88 | SHBG 21 | TestoL 481,8 | TestoT 521 | nao-HDL 160 | LDL 141 | VLDL 19 | Glic 99
+aciente: Pedro Oscar Marques Da Silva Araujo Do
+Idade: 40a 9m
+Nascimento
+Solicitante: Lorena Araujo Gomes Data nasc.: 07/05/1985
+Data da Prescrição: 22/02/2026 10:23 Convênio: Life Empresarial Saúde
+Nº Atend.: 705600
+HEMOGRAMA, sangue total
+VALORES DE REFERÊNCIA
+RESULTADO Masc: Maior ou igual a 18 anos
+------------------------------------------------------------------------
+ERITRÓCITOS : 4,17 milhões/mm3 4,32 a 5,67
+HEMOGLOBINA : 12,3 g/dL 13,3 a 16,5
+HEMATÓCRITO : 38,5 % 39,2 a 49,0
+HEMOGLOBINA CORPUSCULAR MÉDIA : 29,5 pg 27,7 a 32,7
+VOLUME CORPUSCULAR MÉDIO : 92,3 fL 81,7 a 95,3
+CONCENTRAÇÃO DE HEMOGLOBINA
+CORPUSCULAR MÉDIA: 31,9 g/dL 32,4 a 36,0
+COEFICIENTE DE VARIAÇÃO DO
+VOLUME ERITROCITÁRIO (RDW): 18,3 % 11,8 a 14,1
+------------------------------------------------------ ----------------
+CARACTERES MORFOLÓGICOS:
+alguns macrócitos; policromasia discreta; presença de
+eritroblastos: 3 %
+SÉRIE BRANCA ========================================================
+VALORES DE REFERÊNCIA
+RESULTADO Masc: Maior ou igual a 18 anos
+% /mm3 /mm3
+-------------------------------------------- ---------------------
+LEUCÓCITOS 98.710 3.650 a 8.120
+Neutrófilos : 88,2 87.050 1.590 a 4.770
+Promielócitos : 3,0 2.960 0
+Mielócitos : 6,0 5.920 0
+Metamielócitos: 9,0 8.880 0
+Bastonetes : 13,0 12.830 Até 812
+Segmentados : 57,2 56.460 1.590 a 4.770
+Eosinófilos : 0,6 590 34 a 420
+Basófilos : 0,9 890 10 a 80
+Linfócitos : 8,0 7.900 1.120 a 2.950
+Monócitos : 1,3 1.280 260 a 730
+Blastos : 1,0 990 0
+-------------------------------------------- ---------------------
+CARACTERES MORFOLÓGICOS:
+não foram observados caracteres tóxico-degenerativos nos
+neutrófilos; blastos: 1,0%
+PLAQUETAS ===========================================================
+RESULTADO VALORES DE REFERÊNCIA
+Masc: Maior ou igual a 18 anos
+TOTAL DE PLAQUETAS: 233.000/mm3 VOLUME PLAQUETÁRIO MÉDIO: 11,6 fL 151.000 a 304.000/mm3
+9,2 a 12,6 fL
+OBS.: Este resultado complementa o anteriormente emitido.
+NOTA(1): Os valores de referência para adultos são baseados em um
+estudo com 95 mil amostras de brasileiros saudáveis.
+NOTA(2): Exame automatizado por citometria de fluxo fluorescente e
+impedância, com confirmação das contagens e análise
+morfológica realizadas por microscopia, quando aplicável.
+Recebido em: 22/02/2026 às 11:10h - Liberado em: 22/02/2026 às 15:02h
+RESPONSÁVEL: DRA MARIA DE LOURDES L FERRARI CHAUFFAILLE - CRM 44281SP
+1 de 1
+Paciente: Pedro Oscar Marques Da Silva Araujo Do
+Idade: 40a 9m
+Nascimento
+Solicitante: Lorena Araujo Gomes Data nasc.: 07/05/1985
+Data da Prescrição: 22/02/2026 10:23 Convênio: Life Empresarial Saúde
+Nº Atend.: 705600
+TRANSAMINASE GLUTAMICO-OXALACETICA (TGO)
+ASPARTATO AMINO TRANSFERASE (AST), Atividade no plasma
+Método: Cinético, UV
+RESULTADO VALORES DE REFERÊNCIA
+24 U/L maior que 2 anos: até 40 U/L
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:51h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+TRANSAMINASE GLUTAMICO-PIRUVICA (TGP)
+ALANINA AMINO TRANSFERASE (ALT), Atividade no plasma
+Método: Cinético, UV
+RESULTADO VALORES DE REFERÊNCIA
+30 U/L maior que 1 ano: até 41 U/L
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:51h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+GAMA GLUTAMIL TRANSFERASE (GAMA-GT), plasma
+Método: Cinético, colorimétrico
+RESULTADO VALOR DE REFERÊNCIA
+67 U/L Masculino: de 12 a 73 U/L
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:51h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+FOSFATASE ALCALINA (ALP), plasma
+Método: Cinético colorimétrico
+RESULTADO VALORES DE REFERÊNCIA
+76 U/L Adultos: 40 a 129 U/L
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:51h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+1 de 5
+Paciente: Pedro Oscar Marques Da Silva Araujo Do
+Idade: 40a 9m
+Nascimento
+Solicitante: Lorena Araujo Gomes Data nasc.: 07/05/1985
+Data da Prescrição: 22/02/2026 10:23 Convênio: Life Empresarial Saúde
+Nº Atend.: 705600
+CREATININA, plasma
+Método: Cinético colorimétrico
+RESULTADO VALOR DE REFERÊNCIA
+1,02 mg/dL Acima de 12 anos: 0,70 a 1,30
+ESTIMATIVA DA FILTRAÇÃO GLOMERULAR =================================
+Método: Cálculo da estimativa da taxa de filtração glomerular baseado
+nas equações CKD-EPI 2009, CKD-EPI 2021 e MDRD.
+RESULTADO VALOR DE REFERÊNCIA
+mL/min/1,73 m2 mL/min/1,73 m2
+CKD-EPI 2009
+Indivíduo afrodescendente : superior a 90 superior a 60
+Indivíduo não afrodescendente: superior a 90 superior a 60
+CKD-EPI 2021 : 95 superior a 60
+MDRD
+Indivíduo afrodescendente : superior a 60 superior a 60
+Indivíduo não afrodescendente: superior a 60 superior a 60
+NOTA 1: O resultado descrito se refere a uma estimativa da taxa de
+filtração glomerular obtida por meio de cálculo. Caso haja
+discordância entre o resultado e o quadro clínico do paciente,
+sugere-se a determinação da taxa de filtração glomerular pelo
+método padrão através da coleta de urina de 24 horas.
+NOTA 2: A estimativa da taxa de filtração glomerular pode apresentar
+flutuações em função da variação biológica do nível de
+creatinina no sangue, inclusive decorrente do tipo de dieta ou
+uso de medicamentos. O cálculo não é aplicável em pacientes com
+creatinina sérica instável, na insuficiência renal aguda e nos
+portadores de massa muscular elevada ou muito baixa.
+NOTA 3: Para as equações CKD-EPI 2009 e MDRD são apresentados dois
+resultados, levando-se em consideração as diferenças étnicas,
+conforme indicado em literatura médica. O valor a ser
+considerado é aquele que corresponde a etnia do paciente.
+NOTA 4: O resultado obtido pela equação CKD-EPI 2021 é único e
+aplicável para todas as etnias.
+Referências:
+Levey AS et al. A new equation to estimate glomerular filtration rate.
+Ann Intern Med. 2009; 150:604-612.
+Levey AS et al. New creatinine and cystatin C based equations to
+estimate GFR without race. N Engl J Med 2021; 385:1737-1749.
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:51h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+2 de 5
+Paciente: Pedro Oscar Marques Da Silva Araujo Do
+Idade: 40a 9m
+Nascimento
+Solicitante: Lorena Araujo Gomes Data nasc.: 07/05/1985
+Data da Prescrição: 22/02/2026 10:23 Convênio: Life Empresarial Saúde
+Nº Atend.: 705600
+SODIO, plasma
+Método: Potenciométrico
+RESULTADO VALORES DE REFERÊNCIA
+137 mEq/L 136 a 145 mEq/L
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:50h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+POTASSIO, plasma
+Método: Potenciométrico
+RESULTADO VALORES DE REFERÊNCIA
+3,8 mEq/L A partir de 1 ano: 3,5 a 4,5 mEq/L
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:50h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+LIPASE, plasma
+Método: enzimático colorimétrico
+RESULTADO VALOR DE REFERÊNCIA
+33 U/L inferior a 60 U/L
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:51h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+3 de 5
+Paciente: Pedro Oscar Marques Da Silva Araujo Do
+Idade: 40a 9m
+Nascimento
+Solicitante: Lorena Araujo Gomes Data nasc.: 07/05/1985
+Data da Prescrição: 22/02/2026 10:23 Convênio: Life Empresarial Saúde
+Nº Atend.: 705600
+PROTEINA C-REATIVA, plasma
+Método: Imunoturbidimetria ultrassensível
+RESULTADO VALORES DE REFERÊNCIA
+0,49 mg/dL Como indicador de processos infecciosos
+(4,90 mg/L) ou inflamatórios:
+De 1,00 a 5,00 mg/dL (10,00 a 50,00 mg/L):
+infecções virais e processos
+inflamatórios leves
+De 5,10 a 20,00 mg/dL (51,00 a 200,00 mg/L):
+infecções bacterianas e processos
+inflamatórios sistêmicos
+Acima de 20,00 mg/dL (acima de 200,00 mg/L):
+infecções graves, grandes queimados e
+politraumatismo
+Como fator agravante do risco cardiovascular:
+quando maior ou igual a 0,20 mg/dL
+(maior ou igual a 2,00 mg/L)
+NOTA 1:
+- Este laudo contempla os resultados nas concentrações mg/dL e mg/L.
+NOTA 2:
+Interpretação como indicador de processos infecciosos ou inflamatórios:
+- Resultados de PCR acima de 1,00 mg/dL (10,00 mg/L) devem ser
+interpretados como indicativos de possível processo infeccioso ou
+inflamatório.
+- Os valores de PCR descritos, para avaliação de processos infecciosos
+ou inflamatórios são simples referência. O resultado deve ser
+interpretado a luz da história clínica e do exame clínico.
+Interpretação como indicador de risco cardiovascular:
+- A interpretação dos valores somente é aplicável quando excluídas
+causas inflamatórias, infecciosas ou imunes de elevação da PCR
+ultrassensível.
+Referência: Diretriz Brasileira de Dislipidemias e Prevenção da
+Aterosclerose - 2025, Sociedade Brasileira de Cardiologia.
+NOTA 3:
+- Mudança nos valores de referência desde 28/11/2025.
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:51h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+4 de 5
+Paciente: Pedro Oscar Marques Da Silva Araujo Do
+Idade: 40a 9m
+Nascimento
+Solicitante: Lorena Araujo Gomes Data nasc.: 07/05/1985
+Data da Prescrição: 22/02/2026 10:23 Convênio: Life Empresarial Saúde
+Nº Atend.: 705600
+CREATINOQUINASE TOTAL (CPK), plasma
+Método: Cinético, UV
+RESULTADO VALORES DE REFERÊNCIA
+123 U/L Acima de 18 anos: 38 - 174 U/L
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:51h
+RESPONSÁVEL: DR NAIRO MASSAKAZU SUMITA - CRM 61649SP
+TEMPO DE TROMBOPLASTINA PARCIAL ATIVADA, URGENTE, plasma
+Método: Coagulométrico
+VALORES DE REFERÊNCIA
+RESULTADO : 29,1 segundos
+NORMAL DO DIA : 29,7 segundos
+RELACAO PACIENTE/NORMAL: 0,98 0,91 a 1,20
+Recebido em: 22/02/2026 às 11:11h - Liberado em: 22/02/2026 às 11:52h
+RESPONSÁVEL: DRA MARIA CAROLINA TOSTES PINTAO - CRM 91813SP
+5 de 5
